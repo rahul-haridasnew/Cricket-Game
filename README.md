@@ -19,3 +19,6 @@ Future Improvements:
 1) Enhance UI with better graphics
 
 2) Add multiplayer mode
+
+
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/ec98131f-4d20-4b47-be93-fdec08154fee" />
